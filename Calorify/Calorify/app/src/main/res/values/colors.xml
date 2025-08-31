@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0A0908</color>
+    <color name="dark_teal">#22333B</color>
+    <color name="light_beige">#EAE0D5</color>
+    <color name="medium_tan">#C6AC8F</color>
+    <color name="dark_brown">#5E503F</color>
+    
+    <!-- Theme colors -->
+    <color name="primary">#22333B</color>
+    <color name="primary_dark">#0A0908</color>
+    <color name="primary_light">#5E503F</color>
+    <color name="accent">#C6AC8F</color>
+    <color name="background">#EAE0D5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0A0908</color>
+    <color name="text_secondary">#5E503F</color>
+    <color name="divider">#C6AC8F</color>
+    <color name="white">#FFFFFF</color>
+</resources>

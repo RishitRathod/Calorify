@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#A8C8A8"
+        android:pathData="M100,20 C144.18,20 180,55.82 180,100 C180,144.18 144.18,180 100,180 C55.82,180 20,144.18 20,100 C20,55.82 55.82,20 100,20 Z" />
+    
+    <!-- Calculator Body -->
+    <path
+        android:fillColor="#7FB07F"
+        android:pathData="M50,70 L130,70 Q140,70 140,80 L140,140 Q140,150 130,150 L50,150 Q40,150 40,140 L40,80 Q40,70 50,70 Z" />
+    
+    <!-- Calculator Screen -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,80 L120,80 Q125,80 125,85 L125,105 Q125,110 120,110 L50,110 Q45,110 45,105 L45,85 Q45,80 50,80 Z" />
+    
+    <!-- Display Numbers "1500" -->
+    <path
+        android:fillColor="#4A4A4A"
+        android:pathData="M55,95 L58,95 L58,88 L55,88 Z M62,95 L72,95 Q74,95 74,93 Q74,91 72,91 L64,91 L64,88 L72,88 Q74,88 74,86 Q74,84 72,84 L62,84 Q60,84 60,86 L60,93 Q60,95 62,95 Z M78,95 L88,95 Q90,95 90,93 L90,86 Q90,84 88,84 L78,84 Q76,84 76,86 L76,93 Q76,95 78,95 Z M78,91 L78,88 L88,88 L88,91 Z M94,95 L104,95 Q106,95 106,93 L106,86 Q106,84 104,84 L94,84 Q92,84 92,86 L92,93 Q92,95 94,95 Z M94,91 L94,88 L104,88 L104,91 Z" />
+    
+    <!-- Calculator Buttons -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,120 L60,120 L60,125 L50,125 Z M65,120 L75,120 L75,125 L65,125 Z" />
+    
+    <!-- Apple Shape -->
+    <path
+        android:fillColor="#7FB07F"
+        android:pathData="M130,90 Q150,85 160,105 Q165,125 155,140 Q145,155 130,150 Q120,145 115,130 Q110,115 115,100 Q120,85 130,90 Z" />
+    
+    <!-- Apple Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3"
+        android:pathData="M135,100 Q145,95 150,110 Q152,120 148,130 Q144,140 135,135 Q130,130 128,120 Q126,110 130,105 Q132,100 135,100 Z" />
+    
+    <!-- Apple Leaf -->
+    <path
+        android:fillColor="#6B9B6B"
+        android:pathData="M145,75 Q155,70 160,80 Q162,85 158,90 Q154,95 145,90 Q140,85 142,80 Q144,75 145,75 Z" />
+    
+    <!-- Apple Stem -->
+    <path
+        android:fillColor="#8B7355"
+        android:pathData="M148,85 Q150,80 152,85 L152,90 Q150,95 148,90 Z" />
+    
+    <!-- Small Leaf Detail -->
+    <path
+        android:fillColor="#6B9B6B"
+        android:pathData="M125,65 Q135,60 140,70 Q142,75 138,80 Q134,85 125,80 Q120,75 122,70 Q124,65 125,65 Z" />
+
+</vector>

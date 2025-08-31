@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CaloriFy</string>
+    <string name="search_hint">search for fruits and vegetables</string>
+    <string name="calories_per_100g">Calories per 100g</string>
+    <string name="no_results">No results found</string>
+    <string name="error_message">Error loading data</string>
+    <string name="loading">Loading...</string>
+    <string name="calorie_goal_title">Set Your Daily Calorie Goal</string>
+    <string name="calorie_goal_description">Enter your daily calorie consumption goal:</string>
+    <string name="calorie_goal_hint">Calories (kcal)</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="recommended_amount">Recommended amount: %1$d servings</string>
+    <string name="serving_size">Serving size: 100g</string>
+    <string name="daily_calorie_intake">Your Daily Calorie Intake</string>
+    <string name="daily_calorie_hint">Enter calories (kcal)</string>
+    <string name="calculate">Calculate</string>
+    <string name="recommendation_title">Recommendation</string>
+    <string name="recommendation_result">You should consume %1$.1f servings (about %2$dg) of this food to meet your calorie goal.</string>
+    <string name="add_button">Add</string>
+    <string name="app_subtitle">Discover nutrition, one bite at a time</string>
+    <string name="app_logo">CaloriFy App Logo</string>
+</resources>
